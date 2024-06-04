@@ -1,0 +1,3 @@
+# Plotly_Stock_Price_Line_Chart
+
+Creates annotated and interactive Plotly line plots, using Gap and Adidas share prices, to demonstrate Kanye West's influence on the positive increase on the stock price. This repository contains two .ipynb files; one for the Gap and one for Adidas. This script uses pandas' web.DataReader to get stock price data from Yahoo Finance. Next, the script creates an interactive line plot which range slider and annotations that link out to sneakers or articles related to Kanye West. Lastly, the plotly visualizations are published to Plotly Chart Studio so that we can grab the code to embed the visualization within a website.
